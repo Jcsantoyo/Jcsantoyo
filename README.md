@@ -18,7 +18,3 @@ I'm building this GitHub profile as a technical portfolio focused on **software 
 - Mathematical modelling
 - Search and optimization problems
 - Game AI and decision-making systems
-
-## Portfolio goal
-
-This profile is intended to grow throughout my degree as a structured technical portfolio. I aim to document my progress through academic and personal projects, showing not only the final code but also the concepts, algorithms and design decisions behind each implementation.
