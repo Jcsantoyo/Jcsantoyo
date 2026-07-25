@@ -18,3 +18,18 @@ I'm building this GitHub profile as a technical portfolio focused on **software 
 - Mathematical modelling
 - Search and optimization problems
 - Game AI and decision-making systems
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/TU_USUARIO/TU_USUARIO/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/TU_USUARIO/TU_USUARIO/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="Serpiente de contribuciones de GitHub"
+    src="https://raw.githubusercontent.com/TU_USUARIO/TU_USUARIO/output/github-contribution-grid-snake.svg"
+  />
+</picture>
