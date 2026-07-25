@@ -1,4 +1,3 @@
-
 I'm a Double Degree student in **Computer Science and Mathematics** at the **University of Granada (UGR)**.
 
 I'm building this GitHub profile as a technical portfolio focused on **software engineering, artificial intelligence, algorithms and applied mathematics**.
@@ -19,17 +18,19 @@ I'm building this GitHub profile as a technical portfolio focused on **software 
 - Search and optimization problems
 - Game AI and decision-making systems
 
+## GitHub contribution snake
+
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/TU_USUARIO/TU_USUARIO/output/github-contribution-grid-snake-dark.svg"
+    srcset="https://raw.githubusercontent.com/Jcsantoyo/Jcsantoyo/output/github-contribution-grid-snake-dark.svg"
   />
   <source
     media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/TU_USUARIO/TU_USUARIO/output/github-contribution-grid-snake.svg"
+    srcset="https://raw.githubusercontent.com/Jcsantoyo/Jcsantoyo/output/github-contribution-grid-snake.svg"
   />
   <img
-    alt="Serpiente de contribuciones de GitHub"
-    src="https://raw.githubusercontent.com/jcsantoyo/jcsantoyo/output/github-contribution-grid-snake.svg"
+    alt="GitHub contribution snake"
+    src="https://raw.githubusercontent.com/Jcsantoyo/Jcsantoyo/output/github-contribution-grid-snake.svg"
   />
 </picture>
