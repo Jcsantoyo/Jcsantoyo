@@ -30,6 +30,6 @@ I'm building this GitHub profile as a technical portfolio focused on **software 
   />
   <img
     alt="Serpiente de contribuciones de GitHub"
-    src="https://raw.githubusercontent.com/TU_USUARIO/TU_USUARIO/output/github-contribution-grid-snake.svg"
+    src="https://raw.githubusercontent.com/Jcsantoyo/Jcsantoyo/output/github-contribution-grid-snake.svg"
   />
 </picture>
