@@ -18,7 +18,6 @@ I'm building this GitHub profile as a technical portfolio focused on **software 
 - Search and optimization problems
 - Game AI and decision-making systems
 
-## GitHub contribution snake
 
 <picture>
   <source
