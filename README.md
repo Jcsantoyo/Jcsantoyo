@@ -30,7 +30,7 @@ I'm building this GitHub profile as a technical portfolio focused on **software 
     srcset="https://raw.githubusercontent.com/Jcsantoyo/Jcsantoyo/output/github-contribution-grid-snake.svg"
   />
   <img
-    alt="GitHub contribution snake"
     src="https://raw.githubusercontent.com/Jcsantoyo/Jcsantoyo/output/github-contribution-grid-snake.svg"
+    alt=""
   />
 </picture>
